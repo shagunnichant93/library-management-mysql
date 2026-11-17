@@ -124,3 +124,9 @@ WHERE t.Status = 'Issued';
 
 Shagun Nichant  
 GitHub: https://github.com/shagunnichant93
+
+## GitHub Practice
+
+- Created a feature branch.
+- Practiced creating a pull request.
+- Learning GitHub collaboration.
